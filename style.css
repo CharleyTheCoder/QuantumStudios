@@ -138,7 +138,7 @@ body {
 .glow-effect {
     font-size: 40px;
     color: #fff;
-    text-shadow: 0 0 10px rgba(0, 255, 204, 0.8), 0 0 20px rgba(0, 255, 204, 0.6);
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.8), 0 0 20px rgba(255, 255, 255, 0.6);
 }
 
 .cta-button {
