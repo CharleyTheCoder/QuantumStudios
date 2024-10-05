@@ -17,8 +17,8 @@ Quantum Studios is dedicated to crafting unique gaming experiences that resonate
 
 ## Our Games
 
-- **Upcoming Release**: [Game Title Placeholder]
-  - Description: A brief overview of your upcoming game. What is it about? What makes it unique?
+- **Upcoming Release**: 
+  - Game Made Using Roblox
 
 ## Technologies Used
 
