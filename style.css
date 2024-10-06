@@ -260,3 +260,42 @@ button:hover {
     margin-top: 50px;
     box-sizing: border-box;
 }
+
+/* Follow Us Section */
+.follow-us-section {
+    text-align: center;
+    padding: 40px 20px;
+}
+
+.social-links {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.social-button {
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    transition: transform 0.3s ease;
+}
+
+.social-button img {
+    width: 24px;
+    height: 24px;
+    margin-right: 10px;
+}
+
+/* YouTube button style */
+.youtube, .twitter {
+    background-color: #000000;
+}
+
+.social-button:hover {
+    transform: scale(1.1);
+}
